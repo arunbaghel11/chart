@@ -26,17 +26,9 @@ Set up the backend:
 
 Ensure MongoDB is installed and running.
 
-Create a .env file in the backend directory with the following content:
 
-makefile
-Copy code
-MONGO_URI=<your-mongodb-uri>
-Import sample data to MongoDB:
 
-arduino
-Copy code
-cd backend
-npm run import-data
+
 Start the backend server:
 
 bash
