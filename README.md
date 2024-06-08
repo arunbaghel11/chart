@@ -8,11 +8,10 @@ Responsive Design: Ensures the dashboard is accessible and functional across dif
 Backend Integration: Retrieves data from a backend server using RESTful API endpoints.
 Modular Components: Uses modular React components for easy maintenance and scalability.
 Installation
-Clone the repository:
+Clone the repository: git clone https://github.com/arunbaghel11/chart
 
-bash
-Copy code
-git clone <repository-url>
+
+
 Install dependencies:
 
 bash
